@@ -28,4 +28,4 @@ This is a web app that predicts stock prices using machine learning models. It u
 ### Steps to Run the App:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Stock-Price-Prediction.git
+   git clone https://github.com/Cs-Abrar/Stock-Price-Prediction.git
