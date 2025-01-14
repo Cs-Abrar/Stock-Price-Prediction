@@ -1,4 +1,3 @@
-# Stock-Price-Prediction
 # Stock Price Prediction Web App
 
 ## Project Overview
